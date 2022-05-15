@@ -1,2 +1,2 @@
 print("welcome")
-print("Practice commit")
+print("Practice push!")
